@@ -1,0 +1,6 @@
+Hit:2 https://download.sublimetext.com apt/dev/ InRelease
+Get:1 http://ftp.yzu.edu.tw/Linux/kali kali-rolling InRelease [30.5 kB]
+Ign:3 https://ftp.lug.ustc.edu.cn/~zsj/anbox stretch InRelease
+Err:4 https://ftp.lug.ustc.edu.cn/~zsj/anbox stretch Release
+  404  Not Found [IP: 202.141.178.11 443]
+Reading package lists...
